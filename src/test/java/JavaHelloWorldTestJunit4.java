@@ -1,12 +1,12 @@
-import org.junit.Test;
+//import org.junit.Test;
 
-import static org.junit.Assert.*;
+//import static org.junit.Assert.*;
 
 public class JavaHelloWorldTestJunit4 {
 
-    @Test
-    public void javaHelloWorld() {
-        JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
-        assertEquals("Hello World", javaHelloWorld.javaHelloWorld());
-    }
+//    @Test
+//    public void javaHelloWorld() {
+//        JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
+//        assertEquals("Hello World", javaHelloWorld.javaHelloWorld());
+//    }
 }
