@@ -1,0 +1,9 @@
+#Testing with Maven
+* Unit testing  (by maven surefire plugin)
+* Integration Testing (by maven failsafe plugin)
+
+##Supporting:
+* POJO Tests
+* Junit 3-5
+* TestNG
+
