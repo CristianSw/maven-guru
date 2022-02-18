@@ -1,0 +1,2 @@
+make executable jars. with this configuration.
+But take care about about dependencies, their need to be addes to classpath after compilation to bo availeable.
