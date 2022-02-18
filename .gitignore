@@ -80,4 +80,4 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 #remove target folder
-target/
+/target/
