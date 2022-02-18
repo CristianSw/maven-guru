@@ -1,0 +1,1 @@
+Added configuration for maven clean plugin to auto clean project when package is runned.
