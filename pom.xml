@@ -77,6 +77,9 @@
             <scope>test</scope>
         </dependency>
 
+
+
+
     </dependencies>
 
 
@@ -169,6 +172,13 @@
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+<!--            Code completion by tests, needs to add configuration for plugin -->
+            <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <version>0.8.2</version>
+                <executions></executions>
             </plugin>
 
         </plugins>
