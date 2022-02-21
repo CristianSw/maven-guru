@@ -173,7 +173,7 @@
                     </execution>
                 </executions>
             </plugin>
-<!--            Code completion by tests, needs to add configuration for plugin -->
+<!--            Code coverage by tests, needs to add configuration for plugin -->
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
